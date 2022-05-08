@@ -15,5 +15,5 @@
 # Getting
 
 ### rabbit MQ 아래 항목들을 Test 한다.
-* Queue, Exchange, publisher, Consummer 에 대한 이해를 돕기 위한 Test 소스
-* Exchange는 제일 활용도가 높은 Topic을 구현한다
+* producer -> exchange -> queue -> consummer 에 대한 이해를 돕기 위한 Test 소스
+* exchange는 제일 활용도가 높은 topic을 구현한다
