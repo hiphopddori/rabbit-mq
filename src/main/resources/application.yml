@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  rabbitmq:
+    host: 3.36.120.111
+    port: 5672
+    username: ddori
+    password: 
+logging:
+  level:
+    root: info
